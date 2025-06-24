@@ -67,11 +67,10 @@ Authorization: Bearer <токен>
   "token": "eyJhbGciOiJIUzI1NiJ9..."
 }
 
-
-<img width="946" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/a4c747df-d391-453e-9759-da0416cb4308" />
-
-
 ```
+<img width="946" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/92fb2656-169f-4af2-b72e-02c25bf543a5" />
+
+
 
 3. Виконати PUT-запит на `/api/good` з заголовком:
 
